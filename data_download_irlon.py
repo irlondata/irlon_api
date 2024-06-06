@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 
-username = "wyldsoul@gmail.com"
-password = "!fireball!@"
+username = "username"
+password = "password"
 login_url = "https://irlon.org/auth/login.php?/services/download.php"
 download_url = "https://irlon.org/services/download.php?time=2020-09-09T00:00:00-04:00/2020-09-16T23:59:59-04:00&tz=est&standard=true&output=csv&pretty=true&qcFilter=true&parameters[]=IRL-FP-WQ+CDOM"
 
