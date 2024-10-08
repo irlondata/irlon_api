@@ -1,6 +1,5 @@
 require(RCurl)
 # get login information
-url = "https://irlon.org/services/download.php?time=2021-07-01T00:00:00-04:00/2021-07-08T23:59:59-04:00&tz=est&standard=true&output=csv&pretty=true&parameters[]=LO-L1B-WQ+CDOM"
 download_url = "https://irlon.org/services/download.php?time=2020-09-09T00:00:00-04:00/2020-09-16T23:59:59-04:00&tz=est&standard=true&output=csv&pretty=true&qcFilter=true&parameters[]=IRL-FP-WQ+CDOM"
 
 #set credentials
