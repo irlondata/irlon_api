@@ -1,4 +1,4 @@
-# Project Name
+# IRLON
 
 Contains example code for downloading data from irlon.org in R, bash, and python.
 
@@ -28,6 +28,9 @@ Ensure curl library is installed for your linux distribution and populate your u
 ```bash
 # Clone the repository
 git clone git@github.com:wyldsoul/irlon_api.git
+
+# Obtain user account
+Data downloads require a irlon.org user account which can be obtained at https://irlon.org/auth/signup.php?
 
 ```
 
